@@ -1,4 +1,3 @@
-BalajiC10/README.md
 👋 Hi, I’m Balaji Chilveri! Nice to meet you. Welcome to my GitHub! 😄
 👀 I’m interested in Java, Spring Boot, Web-Development, DSA and almost every other thing involving logic and code
 🌱 I’m currently learning Full Stack Web Development
